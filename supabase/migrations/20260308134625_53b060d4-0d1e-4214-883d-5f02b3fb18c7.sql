@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN shop_address text;
